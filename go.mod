@@ -979,4 +979,4 @@ require (
 	sourcegraph.com/sqs/pbtypes v0.0.0-20180604144634-d3ebe8f20ae4 // indirect
 )
 
-replace github.com/caddy-dns/lego-deprecated => github.com/Henrique-Batista/lego-deprecated v4.16.0
+replace github.com/caddy-dns/lego-deprecated => github.com/Henrique-Batista/lego-deprecated v0.0.0-20241229182128-268fa761417a
